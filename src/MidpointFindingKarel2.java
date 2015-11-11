@@ -17,7 +17,8 @@ public class MidpointFindingKarel2 extends KarelMejorada2 {
 			if (frontIsBlocked()){
 				daLaVuelta();
 				putBeeper();
-				
+			//Esto es para ver si funciona GitHub
+			//Ahora voy a borrar esto
 				
 			}
 		}
